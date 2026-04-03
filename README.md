@@ -5,6 +5,6 @@
 </p>
 <p align="center">
   <img src="LipBound.png" alt="LipBound" width="30%">
-  <img src="LibBoundKS.png" alt="LibBoundKS" width="30%">
+  <img src="LipBoundKS.jpg" alt="LipBoundKS" width="30%">
 </p>
 
